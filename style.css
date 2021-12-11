@@ -1,0 +1,46 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: rgb(101, 47, 144);
+}
+
+.div_name
+{
+    float: center;
+}
+
+.div_name_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#song
+{
+    font-size: 23;
+    margin: 15px;
+}
+.div_volume
+{
+    float: center;
+}
+
+.body
+{
+    size: fill;
+
+}
+
+canvas 
+{ 
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #73cfd8; 
+}
